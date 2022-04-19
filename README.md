@@ -2,8 +2,6 @@
 #include<iostream>
 #include<string.h>
 
-using namespace NBK;
-
 int main(string argv[])
 {
     std:: string Name = "Nguyễn Thành Nhân";
